@@ -18,7 +18,7 @@ npm install VerifyKit
 ## Usage
 
 ```javascript
-const VerifyKit = require('./VerifyKit.js')
+const VerifyKit = require('VerifyKit')
 
 const verifyKit = new VerifyKit("server_key");
 
